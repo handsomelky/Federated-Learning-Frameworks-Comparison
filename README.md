@@ -2,12 +2,6 @@
 
 "**FederatedLearningFrameworksComparison**" 是一个专注于对比和分析联邦学习的两大开源框架——Flower和TensorFlow Federated (TFF)的调研项目。它包括详尽的文档研究、框架特性评估、以及实际Demo测试。通过深入探讨每个框架的设计哲学、性能表现和易用性，本项目旨在提供一个全面的视角，帮助研究者和开发者了解这些先进工具在处理数据安全和隐私问题时的差异和优势。
 
-本次调研的具体Demo测试代码我已上传到github上
-
-[handsomelky/Federated-Learning-Frameworks-Comparison (github.com)](https://github.com/handsomelky/Federated-Learning-Frameworks-Comparison)
-
-
-
 ## 调研背景
 
 在当今数字化时代，数据和机器学习的应用无处不在，从智能医疗到个性化推荐系统。然而，这种广泛的数据利用引发了对个人隐私的严重关切。为解决这一问题，联邦学习应运而生，它作为隐私计算的一种重要形式，允许在不共享用户原始数据的情况下，跨多个设备和平台进行模型训练。
